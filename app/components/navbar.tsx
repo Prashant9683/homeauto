@@ -32,6 +32,18 @@ const Navbar = () => {
               >
                 Wired Home Automation
               </Link>
+              <Link
+                href="/smart-home-theater"
+                className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-[#4169E1] transition-colors"
+              >
+                Smart Home Theater
+              </Link>
+              <Link
+                href="/smart-network-system"
+                className="px-3 py-2 text-sm font-medium text-gray-600 hover:text-[#4169E1] transition-colors"
+              >
+                Smart Network System
+              </Link>
               <Link href="/contact">
                 <button className="bg-[#4169E1] hover:bg-[#4169E1]/90 text-white px-6 py-2.5 rounded-full text-sm font-medium transition-colors ml-4 shadow-[0_0_10px_rgba(65,105,225,0.3)]">
                   Contact Us

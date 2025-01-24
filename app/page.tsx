@@ -17,6 +17,17 @@ const categories = [
     image: "https://www.homeautomat.in/images/wired-home-automation.webp",
     link: "/wired",
   },
+  {
+    title: "Smart Home Theater",
+    image: "https://www.homeautomat.in/images/home-theator-system.webp",
+    link: "/smart-home-theater",
+  },
+  {
+    title: "Smart Network System",
+    image:
+      "https://www.homeautomat.in/images/smart-home-network-solutions.webp",
+    link: "/smart-network-system",
+  },
 ];
 
 interface CategoryCardProps {
